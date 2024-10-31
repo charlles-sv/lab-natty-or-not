@@ -1,51 +1,40 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Desafio "Natural ou Fake Natty?"
 
-## 🚀 Introdução
+## Descrição
 
-> Woooow! Look at this 👀
+Este projeto tem como objetivo explorar o uso de IAs generativas para criar conteúdos autênticos e impactantes. Inspirado no conceito "Natty or Not", buscamos entender como a tecnologia pode influenciar a percepção da realidade e a criação de conteúdos digitais.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## Objetivos
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+- **Exploração de IAs Generativas**: Investigar e utilizar ferramentas de IA para gerar diversos tipos de conteúdo, como imagens, textos, áudios e vídeos.
+- **Criação de Portfólio**: Desenvolver um portfólio que mostre as capacidades das IAs generativas, destacando a originalidade e a autenticidade dos conteúdos criados.
+- **Compartilhamento e Reflexão**: Compartilhar os resultados nas redes sociais e refletir sobre o impacto e os desafios enfrentados durante o processo criativo.
 
-### Objetivos
+## Tecnologias Utilizadas
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+- **OpenAI GPT-4**: Para geração de prompt.
+- **Ideogram AI**: Para criação de imagens a partir de descrições textuais.
 
-### Template
+## Processo de Criação
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+1. **Pesquisa**: Realizei uma pesquisa sobre as IAs generativas e suas aplicações em diferentes áreas.
+2. **Geração de Conteúdo**:
+   - Utilizei o **OpenAI GPT-4** para criar textos que abordam temas relevantes sobre a era digital.
+   - Apliquei o **Ideogram AI** para gerar imagens que complementam os textos criados.
+3. **Refinamento**: Revisei todo o conteúdo gerado, ajustando detalhes para garantir a qualidade e a coerência.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+## Resultados
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+    ![](https://dl.imgdrop.io/file/aed8b140-8472-4813-922b-7ce35ef93c9e/2024/10/31/JT0XwtDcR8CCepMZ0m7sOgf310162989cf2743.webp)
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+![](https://dl.imgdrop.io/file/aed8b140-8472-4813-922b-7ce35ef93c9e/2024/10/31/FE4h_1FNT1CbcGuVJxezTA87c57a61e4c61190.webp)
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+![](https://dl.imgdrop.io/file/aed8b140-8472-4813-922b-7ce35ef93c9e/2024/10/31/imgb17e0cdcac7f91c0.webp)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## Reflexão
 
-### Exemplos e Insigths
+Durante o desenvolvimento deste projeto, enfrentei diversos desafios, como a necessidade de ajustar a linguagem e o estilo dos textos gerados para que parecessem mais naturais. Aprendi sobre as limitações das IAs e a importância da intervenção humana na criação de conteúdo.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+## Agradecimentos
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Agradeço à Digital Innovation One pela oportunidade de participar deste desafio e a todos que contribuíram com insights e apoio.
